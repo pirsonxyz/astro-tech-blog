@@ -6,34 +6,34 @@ settings:
 
 dependencies:
   '@astrojs/check':
-    specifier: ^0.5.0
+    specifier: ^0.5.10
     version: 0.5.10(prettier-plugin-astro@0.13.0)(prettier@3.2.5)(typescript@5.4.4)
   '@astrojs/react':
-    specifier: ^3.0.8
+    specifier: ^3.1.1
     version: 3.1.1(@types/react-dom@18.2.24)(@types/react@18.2.74)(react-dom@18.2.0)(react@18.2.0)(vite@5.2.8)
   '@astrojs/rss':
-    specifier: ^4.0.1
+    specifier: ^4.0.5
     version: 4.0.5
   '@astrojs/sitemap':
-    specifier: ^3.0.4
+    specifier: ^3.1.2
     version: 3.1.2
   '@astrojs/tailwind':
-    specifier: ^5.0.4
+    specifier: ^5.1.0
     version: 5.1.0(astro@4.5.16)(tailwindcss@3.4.3)
   '@astrojs/vercel':
-    specifier: ^7.0.0
+    specifier: ^7.5.2
     version: 7.5.2(astro@4.5.16)(react@18.2.0)
   '@types/react':
-    specifier: ^18.2.45
+    specifier: ^18.2.74
     version: 18.2.74
   '@types/react-dom':
-    specifier: ^18.2.18
+    specifier: ^18.2.24
     version: 18.2.24
   '@vercel/analytics':
     specifier: ^1.2.2
     version: 1.2.2(react@18.2.0)
   astro:
-    specifier: ^4.0.7
+    specifier: ^4.5.16
     version: 4.5.16(typescript@5.4.4)
   canvas-confetti:
     specifier: ^1.9.2
@@ -51,27 +51,27 @@ dependencies:
     specifier: ^1.5.0
     version: 1.5.0
   rehype-pretty-code:
-    specifier: ^0.13.0
+    specifier: ^0.13.1
     version: 0.13.1(shiki@1.2.4)
   tailwindcss:
-    specifier: ^3.4.0
+    specifier: ^3.4.3
     version: 3.4.3
   typescript:
-    specifier: ^5.3.3
+    specifier: ^5.4.4
     version: 5.4.4
 
 devDependencies:
   '@tailwindcss/typography':
-    specifier: ^0.5.10
+    specifier: ^0.5.12
     version: 0.5.12(tailwindcss@3.4.3)
   prettier:
-    specifier: ^3.1.1
+    specifier: ^3.2.5
     version: 3.2.5
   prettier-plugin-astro:
     specifier: ^0.13.0
     version: 0.13.0
   prettier-plugin-tailwindcss:
-    specifier: ^0.5.9
+    specifier: ^0.5.13
     version: 0.5.13(prettier-plugin-astro@0.13.0)(prettier@3.2.5)
 
 packages:
